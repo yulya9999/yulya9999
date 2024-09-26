@@ -35,5 +35,5 @@
 <div align="center">
   <h2 style="border-bottom: none;" align="center">Mobile autotests sample project:</h2>
 <!-- </br> -->
-<a target="_blank" href="https://github.com/yulya9999/wikipedia-mobile-project-tests"><img title="wikipedia" src="logo/logo-wikipedia.png"></a>
+<a target="_blank" href="https://github.com/yulya9999/wikipedia-mobile-project-tests"><img title="wikipedia" src="logo/logo-wikipedia.svg"></a>
 </div>
