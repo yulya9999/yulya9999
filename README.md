@@ -29,7 +29,7 @@
 <div align="center">
   <h2 style="border-bottom: none;" align="center">API autotests sample project:</h2>
 <!-- </br> -->
-<a target="_blank" href="https://github.com/yulya9999/reqres-project-tests"><img title="reqres" src="logo/logo-reqres.png"></a>
+<a target="_blank" href="https://github.com/yulya9999/reqres-project-tests"><img src="logo/logo-reqres.png" width="240" height="100"/>&nbsp</a>
 </div>
 
 <div align="center">
